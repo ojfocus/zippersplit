@@ -59,4 +59,4 @@ This project is licensed under the MIT License.
 
 ---
 
-**Contributions and
+**Contributions and suggestions are welcome!**
